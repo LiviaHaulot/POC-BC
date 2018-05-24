@@ -1,6 +1,6 @@
 pragma solidity ^0.4.23;
 
-//Commit de Daniel
+//Commit d'Alexis
 /// @title Smart-Contract de gestion des cagnottes des consultants mc²i
 /// @author Mathias EDOUIN
 contract mc2iCagnotte {
