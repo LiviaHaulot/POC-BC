@@ -1,0 +1,70 @@
+body {
+	font-family: Century Gothic;
+	margin-left: 0;
+	height: 100%;
+}
+
+header {
+	position: fixed;
+    top: 0;
+    right: 0;
+	width : 100%;
+	Background : #007BBF;
+	font-family: Century Gothic;
+	color : white; 
+	text-align: center
+}
+
+nav {
+	float : left;
+	width : 20%;
+	height : 800px;
+	Background : #00B0F0;
+	font-family: Calibri;
+	color : white
+}
+
+footer {
+	position: fixed;
+    bottom: 0;
+    right: 0;
+	width : 100%;
+	Background : #007BBF;
+	font-family: Century Gothic;
+	color : white; 
+	text-align: center
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li a {
+    display: block;
+    width: 95%;
+    color: white;
+    padding-top: 8px;
+    padding-bottom: 8px;
+	padding-left: 5%;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #007BBF;
+    color: white;
+}
+
+p {
+	color : black;
+}
+
+.menu {
+	position: fixed;
+    overflow: auto;
+}
+
+.active {
+	color : black;
+}
